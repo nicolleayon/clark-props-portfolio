@@ -24,3 +24,14 @@ body{
 a#homelink {
     color: rgb(173, 187, 180);
 }
+
+.banner {
+    background-image: url("../images/felix-mooneeram-evlkOfkQ5rE-unsplash.jpg");
+    background-size: cover;
+    background-position: 0 50%;
+    color: white;
+    margin-top: 50px; 
+    padding-top: 15px;
+    padding-bottom: 150px;
+    text-align: center; 
+}
